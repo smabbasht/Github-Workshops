@@ -33,8 +33,13 @@
 > have setup Git Bash/Github on their systems. QnA in the last 5 mins are for
 > particular queries if anyone have or if they would want to share anything.
 
+## Pre-requisites:
+We will be using GitHub Desktop and Git Bash CLI throughout the workshop, the installation links are as follow:
+- [GitHub Desktop download page](https://desktop.github.com/)
+- [Git Bash CLI download page](https://git-scm.com/downloads)
+
 ## Resources:
-I'll add the resources here soon
+I'll add the resources here soon if any
 
 
 ## Attendees: 
