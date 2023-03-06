@@ -38,6 +38,7 @@ I'll add the resources here soon
 
 
 ## Attendees: 
-Drop in your names and github usernames so that we all could interact, learn
-and follow each other, I am putting my name and username for initialization:
-- Syed M. ABbas Haider Taqvi, @smabbasht
+Drop in your names and github usernames (with hyperlink to your profile) so
+that we all could interact, learn and follow each other, I am putting my name
+and username for initialization:
+- Syed M. Abbas Haider Taqvi, [@smabbasht](github.com/smabbasht)
