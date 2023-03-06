@@ -4,8 +4,8 @@
 
 ## Session 1: Git and GitHub Basics (60 minutes)
 
-- Greeting and Outline (3 min) -- 03 min
-- Git vs GitHub: What they are? (5 min) -- 08 min
+- Greetings and Outline (3 min) -- 03 min
+- Git vs GitHub: What are they? (5 min) -- 08 min
 - Why use a Version Control System (7 min) -- 15 min
 - Git Bash CLI vs GitHub Desktop (2 min) -- 17 min
 - Initializing a repository, Staging and Commiting Changes, Pushing, Pulling
