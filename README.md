@@ -38,7 +38,8 @@ I'll add the resources here soon
 
 
 ## Attendees: 
-Drop in your names and github usernames (with hyperlink to your profile) so
-that we all could interact, learn and follow each other, I am putting my name
-and username for initialization:
+Drop in your names and github usernames (with hyperlink to your profile) by
+opening a pull request with corresponding change to README.md so that we all
+could interact, learn and follow each other, I am putting my name and username
+for initialization:
 - Syed M. Abbas Haider Taqvi, [smabbasht](https://github.com/smabbasht/)
