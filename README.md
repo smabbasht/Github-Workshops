@@ -34,9 +34,10 @@
 > particular queries If anyone have or if they would want to share anything.
 
 ## Resources:
+I'll add the resources here soon
 
 
-
-## Attendees: Drop in your names and github usernames so that we all could
-interact, learn and follow each other, I am putting my name and username for
-initialization: Syed M. ABbas Haider Taqvi, @smabbasht
+## Attendees: 
+Drop in your names and github usernames so that we all could interact, learn
+and follow each other, I am putting my name and username for initialization:
+- Syed M. ABbas Haider Taqvi, @smabbasht
