@@ -30,8 +30,8 @@
 > I'll entertain questions during the session too and will make them follow
 > along the workshop, I have included demo at one place since this is their
 > first hands on during the workshop, before that the time is to ensure they
-> have setup Git Bash/Github on their systems. QnA in the last 5 mins are four
-> particular queries If anyone have or if they would want to share anything.
+> have setup Git Bash/Github on their systems. QnA in the last 5 mins are for
+> particular queries if anyone have or if they would want to share anything.
 
 ## Resources:
 I'll add the resources here soon
