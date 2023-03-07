@@ -39,7 +39,7 @@ We will be using GitHub Desktop and Git Bash CLI throughout the workshop, the in
 - [Git Bash CLI download page](https://git-scm.com/downloads)
 
 ## Resources:
-I'll add the resources here soon if any
+- A truly prolific [guide](https://harshkapadia2.github.io/git_basics/) on git commands by [Harsh Kapadia](https://github.com/HarshKapadia2)
 
 
 ## Attendees: 
