@@ -40,7 +40,7 @@ We will be using GitHub Desktop and Git Bash CLI throughout the workshop, the in
 
 ## Resources:
 - A truly prolific [guide](https://harshkapadia2.github.io/git_basics/) on git commands by [Harsh Kapadia](https://github.com/HarshKapadia2)
-
+- Git best practices [article](https://www.linkedin.com/pulse/git-best-practices-team-collaboration-chandan-thakur/?trk=pulse-article_more-articles_related-content-card)
 
 ## Attendees: 
 Drop in your names and github usernames (with hyperlink to your profile) by
